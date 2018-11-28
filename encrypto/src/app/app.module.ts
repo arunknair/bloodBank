@@ -34,7 +34,7 @@ import {CreateRequestModule} from './create-request/create-request.module';
     TimelineModule,
     MyAccountModule,
     RequestHistoryModule,
-    CreateRequestModule
+    CreateRequestModule,
   ],
   providers: [
     LoggerService
